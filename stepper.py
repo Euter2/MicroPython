@@ -1,4 +1,4 @@
-"""Stepper motor driven by Easy Driver."""
+"""Micropython module for stepper motor driven by Easy Driver."""
 from machine import Pin
 from time import sleep_us
 
